@@ -1,0 +1,17 @@
+.bg-main,btn-main{
+    background-color: rgb(117, 116, 116);
+}
+
+.custom-navbar {
+    background-color: #00A1E0;
+  }
+
+.custom-navbar-brand {
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+  }
+
+.custom-navbar-webdeveloping{
+    background-color: #fcea2a;
+}
